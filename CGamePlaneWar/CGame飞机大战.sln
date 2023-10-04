@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CGame飞机大战", "CGame飞机大战\CGame飞机大战.vcxproj", "{4648A56C-339C-4B4F-B3E9-F0C54E3EBBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4648A56C-339C-4B4F-B3E9-F0C54E3EBBFB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4648A56C-339C-4B4F-B3E9-F0C54E3EBBFB}.Debug|Win32.Build.0 = Debug|Win32
+		{4648A56C-339C-4B4F-B3E9-F0C54E3EBBFB}.Release|Win32.ActiveCfg = Release|Win32
+		{4648A56C-339C-4B4F-B3E9-F0C54E3EBBFB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
